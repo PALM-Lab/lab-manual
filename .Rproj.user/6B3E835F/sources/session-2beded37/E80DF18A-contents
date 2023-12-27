@@ -1,0 +1,46 @@
+# The PALM Lab {#the-lab}
+
+This chapter gives an overview of the PALM Lab - the overarching goal of our lab, our approach to conducting science, and our values.
+
+## Our mission {#lab-mission}
+
+Our attention - broadly, the ability to select which information to focus on and keep in mind - is critical for everyday cognition. But what we can attend to and keep in mind is limited, making what we do retain incredibly valuable. In today's digital age, an endless amount of information is available at our fingertips, with social media and artificial intelligence designing algorithms that disarm and capture our attention in various ways. The overarching goal of our lab is to conduct rigorous science that leads to a **better understanding of human attention and working memory**, with the hope that it will help improve the collective attention of society to tackle greater problems.
+
+## Our philosophy of science {#lab-philosophy}
+
+We believe that science is best when it is conducted with integrity and with the common good in mind. The PALM Lab strives to uphold this belief through a commitment to rigorous and transparent scholarship (in brief, by doing **Open Science**). Our members endeavour to be careful and honest about their work, prioritizing the computational and empirical reproducibility of our research. Our research practices will strive to include:
+
+* Completing pre-registrations and Registered Reports
+* Repeating and replicating experiments
+* Providing clean and commented code
+* Sharing data associated with our publications
+* Uploading conference posters and preprints for open access
+* Collaborating with local, national and overseas research groups
+
+Further details and resources on these research practices are included in later chapters.
+
+## Our research
+
+The specific goal of our research is to better understand attention and working memory - how we store information in mind for ongoing cognition. In particular, we examine how different perceptual and cognitive factors influence what is represented in mind and how that might be reflected in the brain. For example, in what ways does the complexity of a visual stimulus limit working memory? Do various forms of learning lead to changes in how information is encoded or maintained? Can we observe any changes in how working memory is operation in associated brain signals?
+
+We collect experimental data using psychophysics and neuroimaging (electroencephalography; EEG) methods, and analyse the data in a variety of ways including computational modeling and machine learning. We will often develop and program novel behavioural paradigms using MATLAB (and sometimes Python), and conduct the statistical analysis using MATLAB and R (and sometimes Python). We can also collect data through online methods using jsPsych, Pavlovia and Proflic.
+
+## Our core values {lab-values}
+
+The way we conduct ourselves is a critical part of how we conduct science. Lab members will strive to uphold the following values:
+
+* **Integrity**: Like many things in the world, science is build on trust and honesty. We will pursue rigorous and transparent research, ensuring our work is credible and reliable.
+
+* **Humility**: By accepting that we may not decidely know or understanding everything, we are open to new perspectives. We are willing to admit we made mistakes and share what we have learned from them.
+
+* **Kindness**: Science involves skepticism and criticism, but that can be done with care and empathy. We hope to be respectful members of the scientific community, being considerate and supportive to our colleagues at all levels. 
+
+* **Diversity**: Science should reflect the vast perspectives, experiences and backgrounds that exist in the world. Our lab hopes to be inclusive to all, and promote equity throughout science.
+
+## Location
+
+The PALM Lab is located in the School of Psychology at the University of Adelaide. Our address is <insert here with Maps link.>
+
+
+
+

@@ -1,0 +1,67 @@
+# Lab culture {#lab-culture}
+
+This chapter describes the structure and culture within the PALM Lab. The goal is to be clear about expectations for the members of the lab (ones that William has, as well as for each other) and importantly for William himself.
+
+> This section aims to provide a picture of what mentoring and working with me will be like in the PALM Lab. It will continually be in-progress, shaped by (and including) feedback from lab members and others alike. -- William
+
+## Our lab environment {#lab-environment}
+
+The lab should be a welcoming space for all members to work and conduct research. Everyone should be respectful and kind to each other, providing support and encouragement at all times. We are a team that shares in our successes, rather than competes with each other to get ahead (*and resists current incentive structures in science*). In fact, lab members are encouraged to take an interest in each others' work, learning from each other and collaborate on research.
+
+Getting to know each other beyond being colleagues at work provides a strong basis for developing community within the lab. William encourages (and will help fund and/or organize) social events for the lab, but note that participation will always be optional. (Note that William will welcome any opportunity to take a quick break from work to grab a coffee.)
+
+> I am mindful that conflicts may arise between lab members or with others externally. I will do my best to mediate any issues to the best resolution for all parties. To this end, I value clear communication - I will try my best to ensure the lab space is safe to bring up any disagreements or problems, especially so if they involve me. I hope that in a world that seems to be increasingly divided, we can nurture an environment that can resolve conflicts by listening to each other and having mutual resepct. -- William
+
+It is the responsibility of all lab members to keep the lab space organized and tidy, and maintain a good working environment for all. This includes:
+
+* Cleaning any rubbish or waste found in common spaces
+* Putting lab equipment back in place after use
+* Being considerate with shared spaces or resources (including dividing the spaces or resources equitably, and communicating if something occurs that may impact others)
+* Being mindful about taking up one's time or interrupting others' work (including volume of nearby conversations)
+* Offering to pilot each other's experiments or assist with data collection (such as gelling in EEG)
+
+## Expectations about work {#lab-work}
+
+It is important to maintain work-life balance (*in the face of capitalistic academic structures*) to ensure one's health, enjoyment in doing science, and to prevent burnout. Do prioritize taking breaks during the day, managing life's responsibilities and keeping one's commitment to others.
+
+Work hours are mostly flexible - the PALM Lab adopts a 'hybrid model' where lab members are expected to spend at least a few days of the week working in lab. Ultimately, all lab members are responsible for managing and organizing their time to ensure research goals are met. You are not expected to work during evenings, weekends or public holidays. (*The one possible exception may be during critical deadlines, such as for conferences or grants. William will be as mindful as he can be of this, and if he does ask for something, you can be upfront and say it is not possible.*)
+
+You are expected to stay home when you are sick, so that others (lab members, colleagues, participants) do not catch any illnesses. Please reschedule any meetings as soon as you can.
+
+> I will set regular check-in meetings with lab members to align expectations on what work needs to be achieved and if they are being met. These meetings will be an opportunity to communicate to me about any concerns or struggles, so that I am aware and can help support you or make plans to continue to make progress. -- William
+
+## Mentorship {#lab-mentorship}
+
+Lab members are encouraged to seek mentorship from many people and places, such that they learn from a diverse set of perspectives and experience. This could be from a senior graduate student or postdoc in the PALM Lab or in another lab, from a research collaborator or co-supervisor, and of course, from William. All PALM Lab members are recommended to think about what **skills** they would like to learn, what **goals** they have in life and in science, and what may be an **inspiration** to them, and to seek out mentors who can help them with that (*it may not always be William!*)
+
+### Expectations for William as a research supervisor (#will-mentor)
+
+William is expected to provide mentorship that includes:
+
+* Research training on experimental design, programming, data collection, data management, statistical analysis, computational modeling, manuscript writing, open scholarship, and further.
+* Providing feedback in a timely manner (such as on project ideas, conference submissions, talks, manuscripts, etc.)
+* Giving thoughtful advice on and provide opportunities for achieving future success and preparing you for your the next step in your career (in science/academia or otherwise)
+* Creating a healthy learning environment that encourages asking questions without judgment
+* Being accessible both in-person and virtually (e-mail or otherwise), including regular meetings to discuss research (or anything else)
+
+> I hope to be a supportive supervisor for all PALM Lab members, fostering a working relationship that lasts throughout their journey in academia and science. 
+>
+> I will help all mentees navigate the obstacles and challenges of academia as best I can, and I hope to set an example of how to conduct impactful and rigorous science, through open scholarship practices and service for the community. -- William
+
+## Expectations for PhD students
+
+* Piloting experiments for other lab members
+
+## Expectations for Honours students
+
+## Expectations for research assistants
+
+## Resolving conflicts
+
+Conflicts within the lab or with others can occur despite our best intentions and efforts to prevent them. The hope is that conflicts will be resolved through listening to each other, understanding each other's perspective and respectfully reaching an agreed upon course of action.
+
+If there is any potential for disagreement or unhappiness that cannot be resolved by discussing with the other party, the first person to talk to is William. However, if William does not seem to be the right person (or the conflict is sourced by or with William), then the following contacts may be helpful:
+
+* If you are a PhD student, the members of your thesis committee or the Dean of Learning
+* If you are not a PhD student, seek out ....
+
