@@ -1,5 +1,4 @@
 eq:binom
-thm:tri
 the-lab
 lab-mission
 lab-philosophy
@@ -17,11 +16,18 @@ expectations-for-research-assistants
 resolving-conflicts
 research-policies
 academic-integrity
-authorship-and-contributorship
+contributorship-not-authorship-contributorship
+open-science
+preregistrations-and-registered-reports
 sharing-experiment-code-and-data
+preprints
 resources
+recommended
 zotero
+github-and-github-desktop
 tenzing
+optional
+obsidian
 citations
 resources-1
 equations
@@ -31,5 +37,3 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
-contributorship-not-authorship
