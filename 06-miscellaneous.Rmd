@@ -18,15 +18,15 @@ For his PhD, William was supervised by Prof Alex Holcombe at the University of S
 
 This following is a curated list of potentially useful resources that are relevant to the PALM Lab's ongoing research, or cognitive psychology and neuroscience more broadly.
 
-## Generalized linear models / linear mixed-effects models
+### Generalized linear models / linear mixed-effects models
 
 * [Brown, V. A. (2021). An introduction to linear mixed-effects modeling in R. Advances in Methods and Practices in Psychological Science, 4(1), 2515245920960351.](https://journals.sagepub.com/doi/full/10.1177/2515245920960351)
 * [A visual introduction to hierarchical modeling](http://mfviz.com/hierarchical-models/) (linear mixed effects) by Michael Freeman.
 
-## Open scholarship
+### Open scholarship
 
 * [Reading lists on various Open Science topics created by William for ReproducibiliTea](https://williamngiam.github.io/reading_lists/)
 
-## Lab templates
+### Lab templates
 
 

@@ -36,7 +36,7 @@ You are expected to stay home when you are sick, so that others (lab members, co
 Communication should always be with kindness and respectful of each other's time. General guidelines for various forms of communication are as follows:
 
 * For most communication about lab-related matters, the PALM Lab uses **Slack**.
-  * Slack can cause a lot of interruption to workflows. For this reason, it is not expected for Slack to be open at all times; it is recommended curating (or turning off) notifications to help maintain their focus on work. However, Slack should be checked periodically (~twice a day) to ensure no messages are mixed.
+  * Slack can cause a lot of interruption to workflows. For this reason, it is not expected for Slack to be open at all times; it is recommended curating (or turning off) notifications to help maintain their focus on work. However, Slack should be checked periodically (~twice a day) to ensure no messages are missed.
   * The PALM Lab is on the free plan of Slack, which means **message history is restricted to 90 days**. As a result, communication in Slack should mostly be one-off in nature (quick questions/brief check-ins/notifications). Lab members are expected to maintain good organizational and note-taking practices for their projects.
   * Lab members are encouraged to set statuses (e.g. *do not disturb*, *in lab*, *working from home*, *on holiday*). William will also set statuses for a quick sign of his availability (e.g. *in office*, *teaching*, etc.).
 * For any important communication (e.g. anything that might need documentation/record-keeping, such as where a decision is being made) or any messaging with a large group or external collaborators, use email.
@@ -48,7 +48,7 @@ Communication should always be with kindness and respectful of each other's time
 
 Lab members are encouraged to seek mentorship from many people and places, such that they learn from a diverse set of perspectives and experience. This could be from a senior graduate student or postdoc in the PALM Lab or in another lab, from a research collaborator or co-supervisor, and of course, from William. All PALM Lab members are recommended to think about what **skills** they would like to learn, what **goals** they have in life and in science, and what may be an **inspiration** to them, and to seek out mentors who can help them with that (*it may not always be William!*).
 
-### Expectations for William as a research supervisor (#will-mentor)
+### Expectations for William as a research supervisor {#will-mentor}
 
 William is expected to provide mentorship that includes:
 
