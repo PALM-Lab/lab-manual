@@ -1,0 +1,14 @@
+# Getting started {#getting-started}
+
+This chapter is to outline first steps to take for anyone joining the PALM Lab (*welcome!*).
+
+## Getting access
+
+1. If you're not already a University of Adelaide student, you will need a student ID...
+2. Join our Slack
+3. Join our Google Calendars
+4. Create a Github account (if you don't have one already) and join our [lab Github](https://github.com/PALM-Lab)
+5. Get added to the [lab website](https://palm-lab.github.io). If you are confident with the code, feel free to add your Markdown page to the website repo. If not, ask William to help add you.
+6. Get ethics approval to conduct research. You will need to complete compulsory training and be added on to one of the lab's existing Institutional Review Board (IRB) research protocols (or create a new IRB protocol if a new research line is being started).
+
+_under construction_

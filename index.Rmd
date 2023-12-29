@@ -6,9 +6,9 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 url: https://palm-lab.github.io/lab-manual
-cover-image: 'images/banner_1.png'
+cover-image: 'images/banner.png'
 description: |
-  This is the lab manual for the PALM Lab
+  The lab manual for the Perception, Attention, Learnin and Memory (PALM) Lab, headed by Dr William Ngiam.
 link-citations: yes
 github-repo: PALM-Lab/lab-manual
 ---
@@ -16,12 +16,12 @@ github-repo: PALM-Lab/lab-manual
 # Welcome! {-}
 
 ```{r lab-logo, echo = FALSE}
-knitr::include_graphics('~/Documents/R/lab-manual/images/banner_1.png')
+knitr::include_graphics('~/Documents/R/lab-manual/images/banner.png')
 ```
 
-This is the lab manual for the **P**erception, **A**ttention, **L**earning and **M**emory **Lab** at the University of Adelaide, run by Dr William Ngiam! We are a cognitive psychology and neuroscience lab researching how we keep information in mind for ongoing cognition.
+This is the lab manual of the **P**erception, **A**ttention, **L**earning and **M**emory **Lab** at the University of Adelaide, run by Dr William Ngiam! We are a cognitive psychology and neuroscience lab researching how we keep information in mind for ongoing cognition.
 
-This lab manual contains guidelines, policies, and other resources for how we conduct our research. It is a continual work in progress, as the way we conduct our scientific research evolves.
+Each chapter contains guidelines, policies, and other resources for how we conduct our research. It is a continual work in progress, as the way we conduct our scientific research evolves.
 
 ----
 
@@ -29,6 +29,7 @@ Thank you to the following who inspired this lab manual:
 
 * [Aly Lab](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)
 * [Wei Ji Ma Lab](https://www.cns.nyu.edu/malab/lablife.html)
+  * [Their statement on lab culture and expectations](https://docs.google.com/document/d/1f6foaCkHiCkPKjO0gdKkkdm2dn1EKn5xRKZv-Ut5Dg4/edit?usp=sharing)
 * [Global Community Wellness Lab](https://bookdown.org/jordandanielsnyder/LabManual/expectations-and-responsiblities.html)
 
 ----
