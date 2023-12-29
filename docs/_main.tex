@@ -120,25 +120,8 @@
 
 \title{Lab Manual for the PALM Lab}
 \author{Dr William XQ Ngiam}
-\date{Last updated on 26-12-2023}
+\date{Last updated on 28-12-2023}
 
-\usepackage{amsthm}
-\newtheorem{theorem}{Theorem}[chapter]
-\newtheorem{lemma}{Lemma}[chapter]
-\newtheorem{corollary}{Corollary}[chapter]
-\newtheorem{proposition}{Proposition}[chapter]
-\newtheorem{conjecture}{Conjecture}[chapter]
-\theoremstyle{definition}
-\newtheorem{definition}{Definition}[chapter]
-\theoremstyle{definition}
-\newtheorem{example}{Example}[chapter]
-\theoremstyle{definition}
-\newtheorem{exercise}{Exercise}[chapter]
-\theoremstyle{definition}
-\newtheorem{hypothesis}{Hypothesis}[chapter]
-\theoremstyle{remark}
-\newtheorem*{remark}{Remark}
-\newtheorem*{solution}{Solution}
 \begin{document}
 \maketitle
 
@@ -150,11 +133,15 @@
 \chapter*{Welcome!}\label{welcome}}
 \addcontentsline{toc}{chapter}{Welcome!}
 
+\includegraphics{images/banner_1.png}
+
 This is the lab manual for the \textbf{P}erception, \textbf{A}ttention, \textbf{L}earning and \textbf{M}emory \textbf{Lab} at the University of Adelaide, run by Dr William Ngiam! We are a cognitive psychology and neuroscience lab researching how we keep information in mind for ongoing cognition.
 
-This lab manual contains the guidelines, policies, and other resources for how we conduct our research. It is a continual work in progress, as the way we conduct our scientific research evolves.
+This lab manual contains guidelines, policies, and other resources for how we conduct our research. It is a continual work in progress, as the way we conduct our scientific research evolves.
 
-This lab manual is inspired by many others including:
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Thank you to the following who inspired this lab manual:
 
 \begin{itemize}
 \tightlist
@@ -166,9 +153,9 @@ This lab manual is inspired by many others including:
   \href{https://bookdown.org/jordandanielsnyder/LabManual/expectations-and-responsiblities.html}{Global Community Wellness Lab}
 \end{itemize}
 
-This lab manual is licensed under a CC-BY license.
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-References
+The PALM Lab Manual written by William Ngiam and members of the PALM Lab is licensed under CC BY-NC 4.0
 
 \hypertarget{the-lab}{%
 \chapter{The PALM Lab}\label{the-lab}}
@@ -183,7 +170,7 @@ Our attention - broadly, the ability to select which information to focus on and
 \hypertarget{lab-philosophy}{%
 \section{Our philosophy of science}\label{lab-philosophy}}
 
-We believe that science is best when it is conducted with integrity and with the common good in mind. The PALM Lab strives to uphold this belief through a commitment to rigorous and transparent scholarship (in brief, by doing \textbf{Open Science}). Our members endeavour to be careful and honest about their work, prioritizing the computational and empirical reproducibility of our research. Our research practices will strive to include:
+We believe that science is best when it is conducted with integrity and with the common good in mind. The PALM Lab strives to uphold this belief through a commitment to rigorous and transparent scholarship (in brief, by doing \protect\hyperlink{open-science}{\textbf{Open Science}}). Our members endeavour to be careful and honest about their work, prioritizing the computational and empirical reproducibility of our research. Our research practices will strive to include:
 
 \begin{itemize}
 \tightlist
@@ -210,8 +197,8 @@ The specific goal of our research is to better understand attention and working 
 
 We collect experimental data using psychophysics and neuroimaging (electroencephalography; EEG) methods, and analyse the data in a variety of ways including computational modeling and machine learning. We will often develop and program novel behavioural paradigms using MATLAB (and sometimes Python), and conduct the statistical analysis using MATLAB and R (and sometimes Python). We can also collect data through online methods using jsPsych, Pavlovia and Proflic.
 
-\hypertarget{our-core-values-lab-values}{%
-\section{Our core values \{lab-values\}}\label{our-core-values-lab-values}}
+\hypertarget{lab-values}{%
+\section{Our core values}\label{lab-values}}
 
 The way we conduct ourselves is a critical part of how we conduct science. Lab members will strive to uphold the following values:
 
@@ -237,7 +224,7 @@ The PALM Lab is located in the School of Psychology at the University of Adelaid
 This chapter describes the structure and culture within the PALM Lab. The goal is to be clear about expectations for the members of the lab (ones that William has, as well as for each other) and importantly for William himself.
 
 \begin{quote}
-This section aims to provide a picture of what mentoring and working with me will be like in the PALM Lab. It will continually be in-progress, shaped by (and including) feedback from lab members and others alike. -- William
+\emph{This section aims to provide a picture of what mentoring and working with me will be like in the PALM Lab. It will continually be in-progress, shaped by (and including) feedback from lab members and others alike. -- William}
 \end{quote}
 
 \hypertarget{lab-environment}{%
@@ -248,10 +235,10 @@ The lab should be a welcoming space for all members to work and conduct research
 Getting to know each other beyond being colleagues at work provides a strong basis for developing community within the lab. William encourages (and will help fund and/or organize) social events for the lab, but note that participation will always be optional. (Note that William will welcome any opportunity to take a quick break from work to grab a coffee.)
 
 \begin{quote}
-I am mindful that conflicts may arise between lab members or with others externally. I will do my best to mediate any issues to the best resolution for all parties. To this end, I value clear communication - I will try my best to ensure the lab space is safe to bring up any disagreements or problems, especially so if they involve me. I hope that in a world that seems to be increasingly divided, we can nurture an environment that can resolve conflicts by listening to each other and having mutual resepct. -- William
+\emph{I am mindful that conflicts may arise between lab members or with others externally. I will do my best to \protect\hyperlink{conflicts}{mediate any issues} to the best resolution for all parties. To this end, I value clear communication - I will try my best to ensure the lab space is safe to bring up any disagreements or problems, especially so if they involve me. I hope that in a world that seems to be increasingly divided, we can nurture an environment that can resolve conflicts by listening to each other and having mutual resepct. -- William}
 \end{quote}
 
-It is the responsibility of all lab members to keep the lab space organized and tidy, and maintain a good working environment for all. This includes:
+It is the responsibility of all lab members to keep the lab space organized and tidy, and to maintain a good working environment for all. This includes:
 
 \begin{itemize}
 \tightlist
@@ -260,9 +247,11 @@ It is the responsibility of all lab members to keep the lab space organized and 
 \item
   Putting lab equipment back in place after use
 \item
-  Being considerate with shared spaces or resources (including dividing the spaces or resources equitably, and communicating if something occurs that may impact others)
+  Being considerate with shared spaces or resources (including dividing shared spaces or resources equitably, and communicating if something occurs that may impact others)
 \item
-  Being mindful about taking up one's time or interrupting others' work (including volume of nearby conversations)
+  Being mindful about taking up one's time or interrupting others' work in the lab (including the volume of nearby conversations)
+\item
+  Taking an interest in other lab members' research projects (such as paying attention during talks or lab meetings)
 \item
   Offering to pilot each other's experiments or assist with data collection (such as gelling in EEG)
 \end{itemize}
@@ -274,10 +263,10 @@ It is important to maintain work-life balance (\emph{in the face of capitalistic
 
 Work hours are mostly flexible - the PALM Lab adopts a `hybrid model' where lab members are expected to spend at least a few days of the week working in lab. Ultimately, all lab members are responsible for managing and organizing their time to ensure research goals are met. You are not expected to work during evenings, weekends or public holidays. (\emph{The one possible exception may be during critical deadlines, such as for conferences or grants. William will be as mindful as he can be of this, and if he does ask for something, you can be upfront and say it is not possible.})
 
-You are expected to stay home when you are sick, so that others (lab members, colleagues, participants) do not catch any illnesses. Please reschedule any meetings as soon as you can.
+You are expected to stay home when you are sick, so that others (lab members, colleagues, participants) do not catch any illnesses. If this happens, please reschedule any meetings as soon as you can.
 
 \begin{quote}
-I will set regular check-in meetings with lab members to align expectations on what work needs to be achieved and if they are being met. These meetings will be an opportunity to communicate to me about any concerns or struggles, so that I am aware and can help support you or make plans to continue to make progress. -- William
+\emph{As your mentor, I will set regular check-in meetings with you to align expectations on what work needs to be achieved and if they are being met. These meetings will be an opportunity to communicate to me about any concerns or struggles, so that I am aware and can help support you or make plans to continue to make progress. -- William}
 \end{quote}
 
 \hypertarget{lab-mentorship}{%
@@ -295,7 +284,7 @@ William is expected to provide mentorship that includes:
 \item
   Research training on experimental design, programming, data collection, data management, statistical analysis, computational modeling, manuscript writing, open scholarship, and further.
 \item
-  Providing feedback in a timely manner (such as on project ideas, conference submissions, talks, manuscripts, etc.)
+  Providing feedback in a timely manner (such as comments on project ideas, approval on conference submissions, suggestions on talks, edits on manuscripts, etc.)
 \item
   Giving thoughtful advice on and provide opportunities for achieving future success and preparing you for your the next step in your career (in science/academia or otherwise)
 \item
@@ -305,28 +294,19 @@ William is expected to provide mentorship that includes:
 \end{itemize}
 
 \begin{quote}
-I hope to be a supportive supervisor for all PALM Lab members, fostering a working relationship that lasts throughout their journey in academia and science.
+\_I hope to be a supportive supervisor for all PALM Lab members, fostering a working relationship that lasts throughout their journey in academia and science.
 
-I will help all mentees navigate the obstacles and challenges of academia as best I can, and I hope to set an example of how to conduct impactful and rigorous science, through open scholarship practices and service for the community. -- William
+I will help all mentees navigate the obstacles and challenges of academia as best I can, and I hope to set an example of how to conduct impactful and rigorous science, through open scholarship practices and service for the community. -- William\_
 \end{quote}
 
 \hypertarget{expectations-for-phd-students}{%
 \section{Expectations for PhD students}\label{expectations-for-phd-students}}
 
-\begin{itemize}
-\tightlist
-\item
-  Piloting experiments for other lab members
-\end{itemize}
-
 \hypertarget{expectations-for-honours-students}{%
 \section{Expectations for Honours students}\label{expectations-for-honours-students}}
 
-\hypertarget{expectations-for-research-assistants}{%
-\section{Expectations for research assistants}\label{expectations-for-research-assistants}}
-
-\hypertarget{resolving-conflicts}{%
-\section{Resolving conflicts}\label{resolving-conflicts}}
+\hypertarget{conflicts}{%
+\section{Resolving conflicts}\label{conflicts}}
 
 Conflicts within the lab or with others can occur despite our best intentions and efforts to prevent them. The hope is that conflicts will be resolved through listening to each other, understanding each other's perspective and respectfully reaching an agreed upon course of action.
 
@@ -351,17 +331,15 @@ A core value of the PALM Lab and the University of Adelaide is to conduct scient
 Research fraud is entirely antithetical to the PALM Lab's commitment to benefit society by working towards the truth through rigorous and transparent research. There is no excuse for research fraud - it risks one's career, is a disservice to the field, and undermines society's trust in science.
 
 \begin{quote}
-Scientists are typically evaluated on the number of research publications, and the prestige of the journals they are published in. These incentives may compel someone to conduct research misconduct -- to speed up research and/or to produce a notable finding. Simply put, research misconduct and fraud is not right, and never worth it -- it will be discovered (\emph{especially in the PALM lab}) and jeopardize any success one may have hoped to get, and it will cause substantial costs to the field and society.
+\_Scientists are typically evaluated on the number of research publications, and the prestige of the journals they are published in. These incentives may compel someone to conduct research misconduct -- to speed up research and/or to produce a notable finding. Simply put, research misconduct and fraud is not right, and never worth it -- it will be discovered (\emph{if not by the PALM lab prior to publication}) and jeopardize any success one may have hoped to get, and it will cause substantial costs to the field and society.
 
-I have a different definition of research success that I hope you will learn to share - in brief, I consider the thoughtfulness of the experimental design, the transparency of the research process, the availability of the code and the data, the reliability of the findings, and much more. I hope that you will pursue research with these values foremost. -- William
+I have a different definition of research success that I hope you will learn to share - in brief, I believe the best science will include thoughtfulness of the experimental design, transparency of the research process, availability of the code and the data, reliability of the findings, positive impact on society, and much more. I hope that you will pursue research with these values foremost. -- William\_
 \end{quote}
 
-Any concern of research misconduct within the PALM Lab should be reported to William immediately, who will act according to the \href{https://www.adelaide.edu.au/policies/96/?dsn=policy.document;field=data;id=7885;m=view}{University of Adelaide's Research Misconduct Procedure (2019)} on how complaints of research misconduct will be handled and investigated.
+Any concern of research misconduct within the PALM Lab should be reported to William immediately, who will act according to the \href{https://www.adelaide.edu.au/policies/96/?dsn=policy.document;field=data;id=7885;m=view}{University of Adelaide's Research Misconduct Procedure (2019)} on how complaints of research misconduct will be handled and investigated. Further resources can be found on the \href{https://www.adelaide.edu.au/staff/research/ethics-compliance-integrity/research-integrity}{University of Adelaide's page on Research Integrity}.
 
-More resources can be found on the \href{https://www.adelaide.edu.au/staff/research/ethics-compliance-integrity/research-integrity}{University of Adelaide's page on Research Integrity}.
-
-\hypertarget{contributorship-not-authorship-contributorship}{%
-\section{Contributorship, not authorship (\#contributorship)}\label{contributorship-not-authorship-contributorship}}
+\hypertarget{contributorship}{%
+\section{Contributorship, not authorship}\label{contributorship}}
 
 In psychology and neuroscience, scientists are recognized through authorship on scientific publications. Being the \textbf{first author} of a publication signifies being the lead researcher and main contributor on the project, whereas the \textbf{last author} denotes the senior researcher on the project. In the remaining positions (second to second-last), order of authorship typically by (perceived) amount of contribution to the project.
 
@@ -436,31 +414,73 @@ The PALM Lab aims to share all experimental code and data associated with resear
 
 With William's guidance, all lab members are encouraged to write transparent code and manage data with the expectation that it will be publicly available when submitting the research manuscript for publication. (See \href{https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510}{Wilson et al., 2017 for good enough practices for scientific computing}). The (de-identified) experiment data and code (both experiment and analysis) will be uploaded to the \href{https://osf.io}{Open Science Framework}. Neuroimaging (EEG) data may be uploaded to \href{https://openneuro.org/}{OpenNeuro} which requires the \href{https://bids.neuroimaging.io/}{Brain Imaging Data Structure (BIDS)} format for data storage. See \href{https://osf.io/wjr7u/}{this OSF repository} for an example.
 
-\hypertarget{preprints}{%
-\subsection{Preprints}\label{preprints}}
+\hypertarget{preprints-and-conference-presentations}{%
+\subsection{Preprints (and conference presentations)}\label{preprints-and-conference-presentations}}
 
-For the quick dissemination of research, the PALM Lab will upload preprints of research manuscripts. These will be uploaded to the \href{https://psyarxiv.com}{PsyArXiv} server, with links to any associated OSF repositories. The preprints (and conference presentations) will also be made available on the \href{https://palm-lab.github.io}{PALM Lab website}. Lab members are recommended to upload the preprint when submitting their manuscript for publication at a scientific journal.
+For the quick dissemination of research, the PALM Lab will upload preprints of research manuscripts. These will be uploaded to the \href{https://psyarxiv.com}{PsyArXiv} server, with links to any associated OSF repositories. The preprints (and any associated conference presentations) will also be made available on the \href{https://palm-lab.github.io/presentations}{PALM Lab website}. PALM Lab members will be recommended to upload the preprint when submitting their manuscript for publication at a scientific journal.
 
-\hypertarget{resources}{%
-\chapter{Resources}\label{resources}}
+\hypertarget{lab-resources}{%
+\chapter{Lab Resources}\label{lab-resources}}
 
-This chapter lists useful software and resources for conducting research in the PALM Lab.
+This chapter provides useful links to software and associated resources for conducting research in the PALM Lab.
+
+\hypertarget{required}{%
+\section{Required}\label{required}}
+
+The following are likely needed for conducting research in the PALM Lab.
+
+\hypertarget{matlab}{%
+\subsection*{MATLAB}\label{matlab}}
+\addcontentsline{toc}{subsection}{MATLAB}
+
+The code for conducting the experiments and data analysis will mostly be written in MATLAB. The University of Adelaide provides \href{https://www.mathworks.com/academia/tah-portal/university-of-adelaide-30536634.html}{access to download and use the licensed software}. If a lab member is an experienced programmer (i.e.~requiring little coding supervision from William), they can choose to write all experimental code in Python.
+
+\hypertarget{psychtoolbox}{%
+\subsubsection*{PsychToolbox}\label{psychtoolbox}}
+\addcontentsline{toc}{subsubsection}{PsychToolbox}
+
+The software we use for building psychology experiments (i.e.~displaying stimuli and collecting responses) comes from \href{http://psychtoolbox.org/}{PsychToolbox}. The Python alternative is PsychoPy.
+
+\hypertarget{eeglab}{%
+\subsubsection*{EEGLAB}\label{eeglab}}
+\addcontentsline{toc}{subsubsection}{EEGLAB}
+
+The software we use for analysing EEG data within the MATLAB environment is \href{https://sccn.ucsd.edu/eeglab/index.php}{EEGLAB}. Our artifact rejection pipeline can be found on Github.
+
+\hypertarget{r-and-rstudio}{%
+\subsection*{R and RStudio}\label{r-and-rstudio}}
+\addcontentsline{toc}{subsection}{R and RStudio}
+
+To run some statistical analyses, we use R and \href{https://posit.co/download/rstudio-desktop/}{RStudio}.
+
+\href{https://r4ds.hadley.nz/}{R for Data Science by Hadley Wickham} is a free book that is a great introduction into using R for data analysis and visualization.
+
+\hypertarget{github-and-github-desktop}{%
+\subsection*{Github and Github Desktop}\label{github-and-github-desktop}}
+\addcontentsline{toc}{subsection}{Github and Github Desktop}
+
+For code management and version control, the lab uses Git and \href{https://github.com}{Github}. The \href{https://github.com/PALM-Lab}{PALM Lab's Github} will contain all code repositories for our lab, including shared packages for our common processing or analyses (such as artifact rejection of EEG).
+
+Github's \href{https://docs.github.com/en/get-started/quickstart/hello-world}{own start-up guide} is a good place to start. For those less experienced with programming, \href{https://desktop.github.com/}{Github Desktop} is an easy-to-use interface for maintaining code between your local computer and Github.
 
 \hypertarget{recommended}{%
 \section{Recommended}\label{recommended}}
 
 \hypertarget{zotero}{%
-\subsection{Zotero}\label{zotero}}
+\subsection*{Zotero}\label{zotero}}
+\addcontentsline{toc}{subsection}{Zotero}
 
-\href{https://www.zotero.org/}{Zotero} is a software app for reference management.
+\href{https://www.zotero.org/}{Zotero} is a software app for organizing scientific papers and managing references. It has an in-built reader with note taking capabilities.
 
 \href{https://www.zotero.org/download/connectors}{Zotero Connector} is a very useful Google Chrome extension for adding journal articles directly into Zotero from Google Scholar or journal webpages.
 
-\hypertarget{github-and-github-desktop}{%
-\subsection{Github and Github Desktop}\label{github-and-github-desktop}}
+\hypertarget{jamovi-or-jasp}{%
+\subsection*{Jamovi or JASP}\label{jamovi-or-jasp}}
+\addcontentsline{toc}{subsection}{Jamovi or JASP}
 
 \hypertarget{tenzing}{%
-\subsection{Tenzing}\label{tenzing}}
+\subsection*{Tenzing}\label{tenzing}}
+\addcontentsline{toc}{subsection}{Tenzing}
 
 \href{https://tenzing.club}{\emph{Tenzing}} is an easy-to-use web app for quickly generating the author list, their affiliations and their contributions according to the Contributor Roles Taxonomy (CRediT). The PALM Lab uses a \protect\hyperlink{contributorship}{policy of contributorship} to credit researchers. Use \emph{tenzing} to generate the CRediT roles prior to the submission of a research manuscript for publication.
 
@@ -472,50 +492,22 @@ The app was created by Alex Holcombe, Marton Kovacs, Frederik Aust and Balazs Ac
 \section{Optional}\label{optional}}
 
 \hypertarget{obsidian}{%
-\subsection{Obsidian}\label{obsidian}}
+\subsection*{Obsidian}\label{obsidian}}
+\addcontentsline{toc}{subsection}{Obsidian}
 
-\hypertarget{citations}{%
-\section{Citations}\label{citations}}
+\href{https://obsidian.md/}{Obsidian} is a note-taking and note management software that is designed to be a `second brain'. Notes are written and saved as Markdown files, and with the use of tags and links, can provide a powerful organization and navigation of the notes. Obsidian does have a steep learning curve and requires some setting up to work best for you.
 
-Reference items in your bibliography file(s) using \texttt{@key}.
+\hypertarget{adobe-illustrator}{%
+\subsection*{Adobe Illustrator}\label{adobe-illustrator}}
+\addcontentsline{toc}{subsection}{Adobe Illustrator}
 
-For example, we are using the \textbf{bookdown} package \citep{R-bookdown} (check out the last code chunk in index.Rmd to see how this citation key was added) in this sample book, which was built on top of R Markdown and \textbf{knitr} \citep{xie2015} (this citation was added manually in an external file book.bib).
-Note that the \texttt{.bib} files need to be listed in the index.Rmd with the YAML \texttt{bibliography} key.
+Adobe Illustrator is part of the Adobe Creative Cloud, and is useful for editing and cleaning up scientific figures for publication (for example, \emph{generating vector graphics to the appropriate sizes}), and for creating well-designed conference posters.
 
-The RStudio Visual Markdown Editor can also make it easier to insert citations: \url{https://rstudio.github.io/visual-markdown-editing/\#/citations}
+\hypertarget{miscellaneous}{%
+\chapter{Miscellaneous}\label{miscellaneous}}
 
-\hypertarget{resources-1}{%
-\chapter{Resources}\label{resources-1}}
-
-\hypertarget{equations}{%
-\section{Equations}\label{equations}}
-
-Here is an equation.
-
-\begin{equation} 
-  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}
-  \label{eq:binom}
-\end{equation}
-
-You may refer to using \texttt{\textbackslash{}@ref(eq:binom)}, like see Equation \eqref{eq:binom}.
-
-\hypertarget{theorems-and-proofs}{%
-\section{Theorems and proofs}\label{theorems-and-proofs}}
-
-Labeled theorems can be referenced in text using \texttt{\textbackslash{}@ref(thm:tri)}, for example, check out this smart theorem \ref{thm:tri}.
-
-\begin{theorem}
-\protect\hypertarget{thm:tri}{}\label{thm:tri}For a right triangle, if \(c\) denotes the \emph{length} of the hypotenuse
-and \(a\) and \(b\) denote the lengths of the \textbf{other} two sides, we have
-\[a^2 + b^2 = c^2\]
-\end{theorem}
-
-Read more here \url{https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html}.
-
-\hypertarget{callout-blocks}{%
-\section{Callout blocks}\label{callout-blocks}}
-
-The R Markdown Cookbook provides more help on how to use custom blocks to design your own callouts: \url{https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html}
+\hypertarget{templates}{%
+\section{Templates}\label{templates}}
 
 \hypertarget{sharing-your-book}{%
 \chapter{Sharing your book}\label{sharing-your-book}}

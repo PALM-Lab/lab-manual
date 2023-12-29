@@ -8,7 +8,7 @@ Our attention - broadly, the ability to select which information to focus on and
 
 ## Our philosophy of science {#lab-philosophy}
 
-We believe that science is best when it is conducted with integrity and with the common good in mind. The PALM Lab strives to uphold this belief through a commitment to rigorous and transparent scholarship (in brief, by doing **Open Science**). Our members endeavour to be careful and honest about their work, prioritizing the computational and empirical reproducibility of our research. Our research practices will strive to include:
+We believe that science is best when it is conducted with integrity and with the common good in mind. The PALM Lab strives to uphold this belief through a commitment to rigorous and transparent scholarship (in brief, by doing [**Open Science**](#open-science)). Our members endeavour to be careful and honest about their work, prioritizing the computational and empirical reproducibility of our research. Our research practices will strive to include:
 
 * Completing pre-registrations and Registered Reports
 * Repeating and replicating experiments
@@ -25,7 +25,7 @@ The specific goal of our research is to better understand attention and working 
 
 We collect experimental data using psychophysics and neuroimaging (electroencephalography; EEG) methods, and analyse the data in a variety of ways including computational modeling and machine learning. We will often develop and program novel behavioural paradigms using MATLAB (and sometimes Python), and conduct the statistical analysis using MATLAB and R (and sometimes Python). We can also collect data through online methods using jsPsych, Pavlovia and Proflic.
 
-## Our core values {lab-values}
+## Our core values {#lab-values}
 
 The way we conduct ourselves is a critical part of how we conduct science. Lab members will strive to uphold the following values:
 

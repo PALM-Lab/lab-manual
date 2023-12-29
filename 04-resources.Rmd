@@ -1,18 +1,46 @@
-# Resources
+# Lab Resources
 
-This chapter lists useful software and resources for conducting research in the PALM Lab.
+This chapter provides useful links to software and associated resources for conducting research in the PALM Lab.
+
+## Required
+
+The following are likely needed for conducting research in the PALM Lab.
+
+### MATLAB {-}
+
+The code for conducting the experiments and data analysis will mostly be written in MATLAB. The University of Adelaide provides [access to download and use the licensed software](https://www.mathworks.com/academia/tah-portal/university-of-adelaide-30536634.html). If a lab member is an experienced programmer (i.e. requiring little coding supervision from William), they can choose to write all experimental code in Python.
+
+#### PsychToolbox {-}
+
+The software we use for building psychology experiments (i.e. displaying stimuli and collecting responses) comes from [PsychToolbox](http://psychtoolbox.org/). The Python alternative is PsychoPy.
+
+#### EEGLAB {-}
+
+The software we use for analysing EEG data within the MATLAB environment is [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php). Our artifact rejection pipeline can be found on Github.
+
+### R and RStudio {-}
+
+To run some statistical analyses, we use R and [RStudio](https://posit.co/download/rstudio-desktop/). 
+
+[R for Data Science by Hadley Wickham](https://r4ds.hadley.nz/) is a free book that is a great introduction into using R for data analysis and visualization.
+
+### Github and Github Desktop {-}
+
+For code management and version control, the lab uses Git and [Github](https://github.com). The [PALM Lab's Github](https://github.com/PALM-Lab) will contain all code repositories for our lab, including shared packages for our common processing or analyses (such as artifact rejection of EEG). 
+
+Github's [own start-up guide](https://docs.github.com/en/get-started/quickstart/hello-world) is a good place to start. For those less experienced with programming, [Github Desktop](https://desktop.github.com/) is an easy-to-use interface for maintaining code between your local computer and Github.
 
 ## Recommended
 
-### Zotero
+### Zotero {-}
 
-[Zotero](https://www.zotero.org/) is a software app for reference management.
+[Zotero](https://www.zotero.org/) is a software app for organizing scientific papers and managing references. It has an in-built reader with note taking capabilities.
 
 [Zotero Connector](https://www.zotero.org/download/connectors) is a very useful Google Chrome extension for adding journal articles directly into Zotero from Google Scholar or journal webpages.
 
-### Github and Github Desktop
+### Jamovi or JASP {-}
 
-### Tenzing {#tenzing}
+### Tenzing {-#tenzing}
 
 [*Tenzing*](https://tenzing.club) is an easy-to-use web app for quickly generating the author list, their affiliations and their contributions according to the Contributor Roles Taxonomy (CRediT). The PALM Lab uses a [policy of contributorship](#contributorship) to credit researchers. Use *tenzing* to generate the CRediT roles prior to the submission of a research manuscript for publication.
 
@@ -22,14 +50,11 @@ The app was created by Alex Holcombe, Marton Kovacs, Frederik Aust and Balazs Ac
 
 ## Optional
 
-### Obsidian
+### Obsidian {-}
 
-## Citations
+[Obsidian](https://obsidian.md/) is a note-taking and note management software that is designed to be a 'second brain'. Notes are written and saved as Markdown files, and with the use of tags and links, can provide a powerful organization and navigation of the notes. Obsidian does have a steep learning curve and requires some setting up to work best for you.
 
-Reference items in your bibliography file(s) using `@key`.
+### Adobe Illustrator {-}
 
-For example, we are using the **bookdown** package [@R-bookdown] (check out the last code chunk in index.Rmd to see how this citation key was added) in this sample book, which was built on top of R Markdown and **knitr** [@xie2015] (this citation was added manually in an external file book.bib). 
-Note that the `.bib` files need to be listed in the index.Rmd with the YAML `bibliography` key.
+Adobe Illustrator is part of the Adobe Creative Cloud, and is useful for editing and cleaning up scientific figures for publication (for example, *generating vector graphics to the appropriate sizes*), and for creating well-designed conference posters. 
 
-
-The RStudio Visual Markdown Editor can also make it easier to insert citations: <https://rstudio.github.io/visual-markdown-editing/#/citations>
