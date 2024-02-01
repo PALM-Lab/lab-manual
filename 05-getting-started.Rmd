@@ -2,7 +2,7 @@
 
 This chapter is to outline first steps to take for anyone joining the PALM Lab (*welcome!*).
 
-## Getting access
+## Your first week
 
 1. If you're not already a University of Adelaide student, you will need a student ID...
 2. Join our Slack

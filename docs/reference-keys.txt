@@ -9,7 +9,7 @@ lab-environment
 lab-work
 expectations-around-communication
 lab-mentorship
-expectations-for-william-as-a-research-supervisor-will-mentor
+will-mentor
 student-expectations
 expectations-for-honours-students
 conflicts
@@ -25,13 +25,13 @@ required
 recommended
 optional
 getting-started
-getting-access
+your-first-week
 miscellaneous
 collaborators
 the-university-of-adelaide
 awhvogel-lab-at-the-university-of-chicago
 holclab-at-the-university-of-sydney
-additional-resources
+extra-resources
 generalized-linear-models-linear-mixed-effects-models
 open-scholarship
 lab-templates

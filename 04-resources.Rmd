@@ -56,9 +56,10 @@ The app was created by Alex Holcombe, Marton Kovacs, Frederik Aust and Balazs Ac
 
 ### Obsidian {-}
 
-[Obsidian](https://obsidian.md/) is a note-taking and note management software that is designed to be a 'second brain'. Notes are written and saved as Markdown files, and with the use of tags and links, can provide a powerful organization and navigation of the notes. Obsidian does have a steep learning curve and requires some setting up to work best for you.
+[Obsidian](https://obsidian.md/) is a note-taking and knowledge management software that is designed to be a 'second brain' for the user. Notes are written and saved as Markdown files, and with the use of tags, links and community-built plugins, Obsidian can provide a powerful organization and navigation of the notes. Obsidian does have a steep learning curve and requires some setting up (including thought about structure and organization) before it can work well.
 
 ### Adobe Illustrator {-}
 
 Adobe Illustrator is part of the Adobe Creative Cloud, and is useful for editing and cleaning up scientific figures for publication (for example, *generating vector graphics to the appropriate sizes*), and for creating well-designed conference posters. 
 
+Additional resources (mostly educational in nature) can be found in [Chapter 6](#extra-resources).
