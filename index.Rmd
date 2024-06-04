@@ -8,7 +8,7 @@ bibliography: [book.bib, packages.bib]
 url: https://palm-lab.github.io/lab-manual
 cover-image: 'images/banner.png'
 description: |
-  The lab manual for the Perception, Attention, Learnin and Memory (PALM) Lab, headed by Dr William Ngiam.
+  The lab manual for the Perception, Attention, Learning and Memory (PALM) Lab, headed by Dr William Ngiam.
 link-citations: yes
 github-repo: PALM-Lab/lab-manual
 ---

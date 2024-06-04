@@ -33,6 +33,8 @@ You are expected to stay home when you are sick, so that others (lab members, co
 
 ### Requesting time off {-}
 
+Progress does not happen in a linear fashion -- working more or harder does not always lead to faster or better outputs. Breaks are necessary for preventing burnout, for developing fresh ideas and for consolidating learning. Relaxing is not a waste of time when it is an investment in your future self to recover and keep going!
+
 I trust lab members to be responsible for maintaining work hours and ensuring research progress is being made, and won't be strictly policing your hours. However, please check-in with me about taking any time off (mainly so that I am aware, as well as to make plans for your time away as needed). I recognise that there is more to life than science and research, so as a supervisor, I hope to make sure that there is balance (both enough work is being done and enough life is being lived.)
 
 > _As your mentor, I will set regular (~weekly) check-in meetings with you to align expectations on what work needs to be achieved and if they are being met. These meetings will be an opportunity to communicate to me about any concerns or struggles, so that I am aware and can help support you or make plans to continue to make progress. -- William_
@@ -52,7 +54,7 @@ Communication should always be with kindness and respectful of each other's time
 
 ### Making mistakes {-}
 
-An important part of our lab culture (and science overall) is our attitude and response towards mistakes. In the PALM Lab, we recognize that mistakes (small or large) can happen despite our best efforts, and that it is unhelpful to respond poorly and place blame. We all make mistakes! In fact, mistakes should be treated as moments that one can grow from, and that others can learn from when we share them. I will make an effort to lead by example and share both present and past mistakes that he has made!
+An important part of our lab culture (and science overall) is our attitude and response towards mistakes. In the PALM Lab, we recognize that mistakes (small or large) can happen despite our best efforts, and that it is unhelpful to respond poorly and place blame. We all make mistakes! In fact, mistakes should be treated as **moments that one can grow from**, and that others can learn from when we share them. I will make an effort to lead by example and share both present and past mistakes that I have made!
 
 As a lab, we will prioritize careful, rigorous research rather than speedy, flashy research outputs, committing to open scholarship (see our [approach to Open Science in the next chapter](#open-science)). This means that we take additional steps towards preventing mistakes (for example, piloting experiments and code review). Nevertheless, sometimes mistakes can (and will) pop up. The members of the PALM Lab will be encouraged to take ownership of their mistakes - not to hide them but share and work through them with others (especially when it impacts others, or influences the research outcomes).
 
@@ -72,7 +74,7 @@ I am expected to provide mentorship that includes:
 * Creating a healthy learning environment that encourages you to attempt things yourself and to fail at, asking questions without judgment and gives you the space to develop
 * Being accessible both in-person and virtually (e-mail or otherwise), including regular meetings to discuss research (or anything else)
 
-> _I hope to be a supportive supervisor for all PALM Lab members, fostering a working relationship that lasts throughout their journey in academia and science._
+> _I hope to be a supportive supervisor for all PALM Lab members, fostering a working relationship that lasts throughout their journey in academia and science. I like to think of the mentor role as being a coach - to me, it gives the sense that the mentee has the agency in what they can achieve!_
 >
 > _I will help all mentees navigate the obstacles and challenges of academia as best I can, and I hope to set an example of how to conduct impactful and rigorous science, through open scholarship practices and service for the community. -- William_
 
@@ -96,7 +98,7 @@ You can find out a little bit more about me on [my personal academic website](ht
 
 ## Expectations for PhD students {#student-expectations}
 
-_under construction - waiting on getting to UofA!_
+_under construction_
 
 ## Expectations for Honours students
 
@@ -104,11 +106,14 @@ _under construction_
 
 ## Resolving conflicts {#conflicts}
 
-Conflicts within the lab or with others can occur despite our best intentions and efforts to prevent them. The hope is that conflicts will be resolved through listening to each other, understanding each other's perspective and respectfully reaching an agreed upon course of action.
+Conflicts within the lab or with others can occur despite our best intentions and efforts to prevent them. The hope is that conflicts will be resolved through listening to each other, sharing and understanding all perspectives, and respectfully reaching an agreed upon course of action.
 
-If there is any potential for disagreement or unhappiness that cannot be resolved by discussing with the other party, the first person to talk to is me However, if I do not seem to be the right person (or the conflict is sourced by or with me), then the following contacts may be helpful:
+If there is any potential for disagreement or unhappiness that cannot be resolved by discussing with the other party, the first person to talk to is me. However, if I do not seem to be the right person (or the conflict is sourced by or with me), then the following resources and contacts may be helpful:
 
-* If you are a PhD student, the members of your thesis committee or the Dean of Learning
-* If you are not a PhD student, seek out ....
+* Disclosing or reporting an incident of unacceptable behaviour to the [Integrity Unit](https://www.adelaide.edu.au/safer-campus-community/reporting-options).
+* The university's [Counselling Support](https://www.adelaide.edu.au/counselling/) provides free, short-term help with issues affecting student life.
+* Contacting and seeking advice from the Research Coordinator ([Dr Rachel Stephens](https://researchers.adelaide.edu.au/profile/rachel.stephens)), the Research Integrity Advisor ([Professor Carolyn Semmler](https://researchers.adelaide.edu.au/profile/carolyn.semmler)), and/or the Postgraduate Coordinator ([Associate Professor Diana Dorstyn](https://www.adelaide.edu.au/directory/diana.dorstyn)).
 
-_under construction_
+## Student wellbeing
+
+The University of Adelaide is highly committed to supporting its students and their wellbeing. The [Hub Central](https://www.adelaide.edu.au/student-hubs/hub-central) located on Level 3 of the North Terrace Campus, underneath the Hughes Building, is a 24/7 place where students can seek advice with all things. The staff will be more than willing to direct you to where you can receive relevant support, if they can't provide it themselves.

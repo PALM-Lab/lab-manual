@@ -13,6 +13,7 @@ will-mentor
 student-expectations
 expectations-for-honours-students
 conflicts
+student-wellbeing
 research-policies
 academic-integrity
 contributorship
@@ -35,3 +36,4 @@ extra-resources
 generalized-linear-models-linear-mixed-effects-models
 open-scholarship
 lab-templates
+some-favorite-inspirations
