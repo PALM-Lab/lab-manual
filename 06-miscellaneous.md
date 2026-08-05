@@ -1,0 +1,35 @@
+# Miscellaneous
+
+## Collaborators
+
+### Adelaide University
+
+Adelaide University has a collaborative research culture, with many working on understanding brain and behaviour.
+
+### Awh/Vogel Lab at the University of Chicago
+
+William was a postdoctoral researcher with Prof Edward Awh and Prof Edward Vogel at the University of Chicago, and has developed a long-time working relationship with them. Expect a lot of collaboration and discussion with them.
+
+### holcLab at the University of Sydney
+
+For his PhD, William was supervised by Prof Alex Holcombe at the University of Sydney, who gave his start in visual perception research and inspired his advocacy for open scholarship. The holcLab is interested in the limits of visual attention and uses psychophysical paradigms like the multiple-object tracking (MOT).
+
+## Additional resources=
+
+This following is a curated list of potentially useful resources that are relevant to the PALM Lab's ongoing research, or cognitive psychology and neuroscience more broadly.
+
+### Generalized linear models / linear mixed-effects models
+
+* [Brown, V. A. (2021). An introduction to linear mixed-effects modeling in R. Advances in Methods and Practices in Psychological Science, 4(1), 2515245920960351.](https://journals.sagepub.com/doi/full/10.1177/2515245920960351)
+* [A visual introduction to hierarchical modeling](http://mfviz.com/hierarchical-models/) (also known as linear mixed effects) by Michael Freeman.
+
+### Open scholarship
+
+* [The Turing Way](https://the-turing-way.netlify.app/index.html) - a community-driven handbook to reproducible, ethical and collaborative data science. (***Highly recommended***)
+* [Reading lists on various Open Science topics created by William for ReproducibiliTea](https://williamngiam.github.io/reading_lists/)
+
+### Lab templates
+
+### Some favorite inspirations
+
+* [A scene about growth from The Bear, a fantastic TV series based in my second home, Chicago.](https://youtu.be/CT2vwm4oY00)
