@@ -8,4 +8,4 @@ You are welcome to update the lab manual with helpful information for the lab me
 
 ## Bookdown
 
-This lab manual was written using R Markdown and [**bookdown**](https://github.com/rstudio/bookdown). See the [**bookdown** book](https://bookdown.org/yihui/bookdown/) and [**bookdown** package reference site](https://pkgs.rstudio.com/bookdown).
+This lab manual was written using MyST.

@@ -37,10 +37,5 @@ The way we conduct ourselves is a critical part of how we conduct science. Lab m
 
 * **Diversity**: Science should reflect the vast perspectives, experiences and people that exist in the world. Our lab hopes to be inclusive to all, and promote equity throughout science.
 
-## Location
-
-The PALM Lab is located in the Hughes Building on the North Terrace campus of the University of Adelaide.
-
-
 
 
